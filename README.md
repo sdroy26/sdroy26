@@ -3,8 +3,8 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Status-Exploring-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Current%20Goal-Learn%20By%20Building-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Mode-Always%20Learning-black?style=for-the-badge"/> </div> <br> <div align="center">
-🏎️ SANIDHYA DIPANKAR ROY
-👨‍🎓 Computer Science Student
+🏎️ SANIDHYA DIPANKAR ROY <br>
+👨‍🎓 Computer Science Student <br>
 🏁 Formula 1 Enthusiast • 🎨 Drawing • 🎵 Music
 <br>
 ✨ Building Ideas • Solving Problems • Learning Continuously ✨
