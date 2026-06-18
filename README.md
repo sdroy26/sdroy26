@@ -3,9 +3,11 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/Status-Exploring-success?style=for-the-badge"/> <img src="https://img.shields.io/badge/Current%20Goal-Learn%20By%20Building-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Mode-Always%20Learning-black?style=for-the-badge"/> </div> <br> <div align="center">
-🏎️ SANIDHYA DIPANKAR ROY <br>
+<h1 align="center"><strong> 👋 HI! SANIDHYA ROY HERE!! </strong></h1> <br>
 👨‍🎓 Computer Science Student <br>
+<br>
 🏁 Formula 1 Enthusiast • 🎨 Drawing • 🎵 Music
+<br>
 <br>
 ✨ Building Ideas • Solving Problems • Learning Continuously ✨
 </div> <br> <hr style="opacity:0.25"/> <div align="center"> <h1>⚡ TECH STACK</h1> <br> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,django,git,github,vscode,sqlite,linux,figma"/> </div> <br> <hr style="opacity:0.25"/> <div align="center"> <h1>📈 GITHUB STATS</h1> <br>
