@@ -10,7 +10,7 @@
 <br>
 <br>
 ✨ Building Ideas • Solving Problems • Learning Continuously ✨
-</div> <br> <hr style="opacity:0.25"/> <div align="center"> <h1>⚡ TECH STACK</h1> <br> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,django,git,github,vscode,sqlite,linux,figma"/> </div> <br> <hr style="opacity:0.25"/> <div align="center"> <h1>📈 GITHUB STATS</h1> <br>
+</div> <br> <hr style="opacity:0.25"/> <div align="center"> <h1>⚡ TECH STACK</h1> <br> <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,django,git,github,vscode,sqlite"/> </div> <br> <hr style="opacity:0.25"/> <div align="center"> <h1>📈 GITHUB STATS</h1> <br>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sdroy26&show_icons=true&theme=tokyonight&hide_border=true"/>
 
