@@ -30,7 +30,7 @@
 
 Every lap teaches something.
 </div> <br> <hr style="opacity:0.25"/> <div align="center"> <h1>🎨 HOBBIES & INTERESTS</h1> <br>
-🎨 Drawing	🏎️ Formula 1	🎵 Music
+🎨 Drawing	🏎️ Formula 1	🎵 Music 👨🏻‍💻 Coding
 </div> <br> <hr style="opacity:0.25"/> <div align="center"> <h1>🌐 CONNECT</h1> <br> <a href="https://github.com/sdroy26"> <img src="https://skillicons.dev/icons?i=github" height="58"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sanidhya-r-639783328"> <img src="https://skillicons.dev/icons?i=linkedin" height="58"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 
 <br><br>
